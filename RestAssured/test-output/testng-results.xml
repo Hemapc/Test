@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="189" started-at="2018-05-22T01:12:22Z" finished-at="2018-05-22T01:12:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="189" started-at="2018-05-22T01:12:22Z" finished-at="2018-05-22T01:12:22Z">
+      <class name="restAssured.RestAssuredTest2">
+        <test-method status="PASS" signature="restTest()[pri:0, instance:restAssured.RestAssuredTest2@5e3a8624]" name="restTest" duration-ms="22" started-at="2018-05-22T01:12:22Z" finished-at="2018-05-22T01:12:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restTest -->
+        <test-method status="PASS" signature="restTest1()[pri:0, instance:restAssured.RestAssuredTest2@5e3a8624]" name="restTest1" duration-ms="3" started-at="2018-05-22T01:12:22Z" finished-at="2018-05-22T01:12:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restTest1 -->
+        <test-method status="PASS" signature="restTest2()[pri:0, instance:restAssured.RestAssuredTest2@5e3a8624]" name="restTest2" duration-ms="3" started-at="2018-05-22T01:12:22Z" finished-at="2018-05-22T01:12:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restTest2 -->
+      </class> <!-- restAssured.RestAssuredTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
